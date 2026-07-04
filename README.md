@@ -2,7 +2,7 @@
 
 ### DevOps Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umaratimomo-hub&label=Profile views&color=0e75b6&style=flat" alt="umaratimomo-hub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umaratimomo-hub&label=Profile views&color=0e75b6&style=flat" alt="umaratimomo-hub"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
