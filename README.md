@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm Umar</h1>
 
 <p>
-  <h2 align="center"><strong>DevOps Engineer</strong></h2>
+  <h2 align="center"><strong>Platform/DevOps Engineer</strong></h2>
 </p>
 
 <p align="center">  </p>
