@@ -14,7 +14,7 @@
 
 | Project | Description |
 |---------|-------------|
-| **AWS ECS FARGATE** | End-to-End deployment of an application using Docker, Terraform, and CI/CD (Github Actions) |
+| **AWS ECS FARGATE** | End-to-End deployment of an application using containerisation (Docker), IaC (Terraform), and CI/CD (Github Actions) |
 
 </div>
 
