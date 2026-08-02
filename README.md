@@ -14,7 +14,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [AWS ECS FARGATE](https://github.com/umaratimomo-hub/ecs-threat-composer-project) | End-to-End deployment of an application using containerisation (Docker), IaC (Terraform), and CI/CD (Github Actions) |
+| [**AWS ECS FARGATE**](https://github.com/umaratimomo-hub/ecs-threat-composer-project) | End-to-End deployment of an application using containerisation (Docker), IaC (Terraform), and CI/CD (Github Actions) |
 
 </div>
 
