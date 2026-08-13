@@ -16,7 +16,7 @@
 |---------|-------------|
 | [**AWS ECS FARGATE**](https://github.com/umaratimomo-hub/ecs-threat-composer-project) | End-to-End deployment of an application using containerisation (Docker), IaC (Terraform), and CI/CD (Github Actions) |
 | [**Serverless Website Hosting**](https://github.com/umaratimomo-hub/Serverless-Website-Hosting) | End-to-End deployment of an application using a serverless hosting solution via AWS S3, Cloudflare, and Cloudfront |
-| [**Docker Web Application**](https://github.com/umaratimomo-hub/Docker_Learning/tree/main/Docker_Page-Count_Web_Application) | End-to-End deployment of a page counter application using Docker Compose, Nginx, Flask, and Redis (for volume persistence) |
+| [**Docker Web Application**](https://github.com/umaratimomo-hub/Docker_Learning/tree/main/Docker_Visit-Counter_Web_Application) | End-to-End deployment of a visit counter application using Docker Compose, Nginx, Flask, and Redis |
 
 </div>
 
